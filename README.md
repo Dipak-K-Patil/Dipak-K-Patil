@@ -1,4 +1,3 @@
-![logo](https://github.com/dipakpatil31/dipakpatil31/blob/main/cyber-technology-globe-background-vector.jpg)
 <h1 align="center">Hi 👋, I'm Dipak Patil</h1>
 <h3 align="center">A passionate Back-End Developer from India</h3>
 
